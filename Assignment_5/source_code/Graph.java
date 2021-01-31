@@ -20,7 +20,9 @@ public class Graph implements GraphADT{
 	
 	
 	// This constructor creates a graph with n nodes and no edges
+	// n is the number of nodes
 	// The name of the nodes are 0,1,...,n-1
+	// 
 	//
 	public Graph(int n) {
 		
